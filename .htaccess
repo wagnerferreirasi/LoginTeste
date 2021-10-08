@@ -4,5 +4,5 @@ Options All -Indexes
 RewriteCond %{HTTPS} on
 RewriteCond %{HTTP_HOST} (www\.)?localhost
 RewriteRule (.*) http://%{HTTP_HOST} [L,R=301]
-RewriteCond %{REQUEST_URI} !/login/public/
-RewriteRule (.*) /login/public/$1 [L]
+RewriteCond %{REQUEST_URI} !/loginteste/public/
+RewriteRule (.*) /loginteste/public/$1 [L]
