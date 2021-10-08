@@ -1,10 +1,10 @@
-# LoginTeste
+# 🔑 LoginTeste
  Sistema de Login com PHP->OO e MVC
  
  </br>
  
 # 📝 Funcionalidades:
-<li>Login de Usurio</li>
+<li>Login de Usuário</li>
 <li>Registro de Usuário</li>
 <li>Editar Usuário</li>
 <li>Deletar Usuário</li>
