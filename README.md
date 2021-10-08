@@ -4,11 +4,11 @@
  </br>
  
 # 📝 Funcionalidades:
-<li>Login de Usuário</li>
-<li>Registro de Usuário</li>
-<li>Editar Usuário</li>
-<li>Deletar Usuário</li>
-<li>Logout</li>
+- Login de Usuário
+- Registro de Usuário
+- Editar Usuário
+- Deletar Usuário
+- Logout
 
 <br>
 
